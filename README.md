@@ -8,7 +8,7 @@ This README file documents the tasks I completed during my Data Analysis Interns
 ###Company: @Cognifyz Technologies
 ###Domain: Data Analysis
 ###Tools Used: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Geopandas
-##Key Skills Gained:
+##Key Skills Gained: 
 -Dataset cleaning and preprocessing
 -Data visualization and exploratory analysis
 -Applying Python libraries to real-world datasets

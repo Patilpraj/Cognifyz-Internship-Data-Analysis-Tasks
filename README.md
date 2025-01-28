@@ -1,7 +1,7 @@
 #Data Analysis Internship at Cognifyz
 
 ##**Overview about internship**
-This README file documents the tasks completed during my Data Analysis Internship at Cognifyz. The internship involved analyzing datasets related to restaurant chains from various regions, categorized into three levels of increasing difficulty.The internship was an invaluable learning experience where I honed my Python programming skills, improved my ability to clean datasets, and executed comprehensive data analysis workflows. All tasks were performed using Jupyter Notebook.
+This README file documents the tasks completed during my Data Analysis Internship at Cognifyz. The internship involved analyzing datasets related to restaurant chains from various regions, categorized into three levels of increasing difficulty. The internship was an invaluable learning experience where I honed my Python programming skills, improved my ability to clean datasets, and executed comprehensive data analysis workflows. All tasks were performed using Jupyter Notebook.
 
 ##**Internship Highlights**
 ###Company: @Cognifyz Technologies
